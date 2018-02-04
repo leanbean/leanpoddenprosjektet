@@ -1,3 +1,10 @@
-Lean podden – stedet hvor vi prater om lean og forbedringsarbeid i uformelle omgivelser, krydret med glimt i øyet og tankevekkende anekdoter
+*Lean podden*
 
-*tittel*
+**hva er det**
+stedet hvor vi prater om lean og forbedringsarbeid i uformelle omgivelser, krydret med glimt i øyet og tankevekkende anekdoter
+
+***Visjon og mål***
+1.	Å høre interessante folk man blir inspirert av
+2.	Lære om hvordan Lean fungerer i praksis
+3.	Kose seg med god-historier fra Lean-arbeid, som skal gjenfortelles i lunsjen på de tusen arbeidsplasser
+4.	Få lyst til å jobbe smartere
